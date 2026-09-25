@@ -1,0 +1,1 @@
+git clone https://dev-at-123456789012:gve8nGJExGAulhbx9jJJQhcXAHe08RU7ozMKEZix@git-codecommit.us-east-1.amazonaws.com/v1/repos/app
